@@ -1,0 +1,35 @@
+Student 1:
+Name: Arham Jan
+Age: 20
+CGPA: 3.21
+DOB: 10/05/2004
+Place of Birth: Islamabad
+
+Student 2:
+Name: Daiyal
+Age: 21
+CGPA: 2.1
+DOB: 24/12/2002
+Place of Birth: idk
+
+Student 3:
+Name: Siawish
+Age: 21
+CGPA: 4.5
+DOB: 12/12/2002
+Place of Birth: idk
+
+Student 4:
+Name: adhsdsad
+Age: 12
+CGPA: 3.5
+DOB: 1/1/2012
+Place of Birth: Canada
+
+Student 5:
+Name: Azlan
+Age: 18
+CGPA: 3.00
+DOB: 23/2005
+Place of Birth: Thandyani
+
